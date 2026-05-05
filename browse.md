@@ -2,3 +2,4 @@
 
 - [https___youtube_com (20260501_150854)](pages/youtube.com/https___youtube_com/20260501_150854/index.md) — 5 media files
 - [https___huggingface_co_LHRuig_fashionphoto_blame_654cf4c4e22bc08832d2a62ff93659f329336b69_Fashion_25 (20260504_025424)](pages/huggingface.co/https___huggingface_co_LHRuig_fashionphoto_blame_654cf4c4e22bc08832d2a62ff93659f329336b69_Fashion_25/20260504_025424/index.md) — 0 media files
+- [https___diffused_to_Thread_Image2Image_Flux_2_Klein_ControlNet_Pose_Depth_Line_Art_Workflow (20260505_024557)](pages/diffused.to/https___diffused_to_Thread_Image2Image_Flux_2_Klein_ControlNet_Pose_Depth_Line_Art_Workflow/20260505_024557/index.md) — 3 media files
