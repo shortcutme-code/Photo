@@ -1,8 +1,0 @@
-https://assets.mailerlite.com/images/favicon-32x32.png
-https://assets.mlcdn.com/ml/images/icons/default/round/black/facebook.png
-https://assets.mlcdn.com/ml/images/icons/default/round/black/instagram.png
-https://assets.mlcdn.com/ml/images/icons/default/round/black/linkedin.png
-https://assets.mlcdn.com/ml/images/icons/default/round/black/x.png
-https://storage.mlcdn.com/account_image/1391435/9rFvJYLQUAt58t0FmISTBGpJLSJYzj3eQutzDoTd.png
-https://storage.mlcdn.com/account_image/1391435/BaQUpAtFPo4nCfodxsIPnL7ItWUuTTr3hIB0GQmP.png
-https://storage.mlcdn.com/account_image/1391435/xwgZ91sJDB3NDRrkoRLI8fOAQJWqbU0PQYj7s962.jpg
