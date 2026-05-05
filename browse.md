@@ -8,3 +8,4 @@
 - [https___www_patreon_com_posts_klein_head_swap (20260505_091417)](pages/patreon.com/https___www_patreon_com_posts_klein_head_swap/20260505_091417/index.md) — 0 media files
 - [https___huggingface_co_datasets_Yogesh_DevHub_Flux_tree_main (20260505_091712)](pages/huggingface.co/https___huggingface_co_datasets_Yogesh_DevHub_Flux_tree_main/20260505_091712/index.md) — 0 media files
 - [https___huggingface_co_Yogesh_DevHub_Flux_tree_main_Flux_2_20Klein_20Character_20Swap (20260505_093310)](pages/huggingface.co/https___huggingface_co_Yogesh_DevHub_Flux_tree_main_Flux_2_20Klein_20Character_20Swap/20260505_093310/index.md) — 0 media files
+- [https___huggingface_co_Yogesh_DevHub_Flux_tree_main_Flux_2_20Klein_20Face_20Swap_20_2B_20Detail_20_2 (20260505_093522)](pages/huggingface.co/https___huggingface_co_Yogesh_DevHub_Flux_tree_main_Flux_2_20Klein_20Face_20Swap_20_2B_20Detail_20_2/20260505_093522/index.md) — 0 media files
